@@ -1,6 +1,8 @@
 # Python-generated files
 __pycache__/
 *.py[oc]
+*.wav
+*.mp4
 build/
 dist/
 wheels/
